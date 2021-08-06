@@ -47,4 +47,3 @@ or globally
 ```
 $ npm test
 ```
-# fulll-algo
