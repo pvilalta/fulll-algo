@@ -1,5 +1,11 @@
 # Algo's workshop
 
+## Gobal Informations
+
+This repository is dedicated to the creation of two algorithms
+* The first one is about incrementing an array digit number 
+* The second one is coding a FizzBuzz 
+
 ## Requirement
 
 NodeJS
